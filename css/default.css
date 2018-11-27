@@ -1,0 +1,23 @@
+html {
+    font-size: 100%;
+}
+body {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    color: #000;
+    background-image: url('images/bg-mobile.svg');
+}
+h1, h2 {
+    font-family: Poppins;
+    font-weight: 700;
+}
+img {
+    max-width: 100%;
+}
+
+.btn {
+    border-radius: 2em;
+    background-color: hsl(322, 100%, 66%);
+    color: white;
+    text-decoration: none;
+    padding: 1em;
+}
